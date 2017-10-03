@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  address: MyText
+  bedrooms: 1
+  size_of_catflap: MyText
+  type: 
+
+two:
+  address: MyText
+  bedrooms: 1
+  size_of_catflap: MyText
+  type: 
